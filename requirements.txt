@@ -1,0 +1,9 @@
+numpy
+scipy
+pytorch>= 1.4.0
+torchvision
+opencv3
+yacs
+tqdm
+CUDA >= 10.0
+Python==3.8
