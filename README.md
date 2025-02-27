@@ -57,5 +57,14 @@ The code is heavily based on the following repositories:
 Thanks for their amazing works.
 
 ## Citation
-We will show it later.
+@article{an2023dual,
+  title={Dual correlation network for efficient video semantic segmentation},
+  author={An, Shumin and Liao, Qingmin and Lu, Zongqing and Xue, Jing-Hao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={34},
+  number={3},
+  pages={1572--1585},
+  year={2023},
+  publisher={IEEE}
+}
 
